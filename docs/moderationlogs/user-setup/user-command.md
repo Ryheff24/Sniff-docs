@@ -23,3 +23,9 @@ This command allows you to update your token.
 Usage: `/user remove <Discord-id>`
 
 This command removes you from the bot. Once you run this command you will lose access to moderation logs until you re-add yourself.
+
+:::note Note
+
+This only works with Discord slash commands.
+
+:::

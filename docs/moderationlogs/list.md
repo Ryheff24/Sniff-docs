@@ -1,6 +1,10 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
-# list
+# List
+
+Lists all active channels currently being listened to.
+
+Usage: `~list`
 
