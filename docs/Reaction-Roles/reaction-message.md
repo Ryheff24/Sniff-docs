@@ -16,7 +16,7 @@ This command is the first command that must be ran when setting up reaction role
 
 Example(without channel without channel argument):
 
-![Reaction role msg](/img/rrmsg.png)
+![Reaction role msg](../../static/img/rrmsg.png)
 
 :::tip Tip
 
@@ -24,6 +24,6 @@ The channel must be a channel mention in order to work.
 
 Example:
 
-![Reaction role msg2](/img/rrmsg2.png)
+![Reaction role msg2](../../static/img/rrmsg2.png)
 
 :::

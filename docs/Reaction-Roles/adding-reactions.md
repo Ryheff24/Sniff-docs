@@ -16,7 +16,7 @@ The emoji/emote **MUST** be added be added to the server or be in a server that 
 
 Example:
 
-![Reaction role img](/img/Reactionrole.png)
+![Reaction role img](../../static/img/Reactionrole.png)
 
 :::info Info
 

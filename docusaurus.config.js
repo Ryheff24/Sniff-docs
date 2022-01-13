@@ -43,7 +43,7 @@ const config = {
         title: 'Sniff',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'static/img/SPANIEL_BOT_LG.png',
         },
         items: [
           // {
@@ -67,8 +67,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Intoduction',
+                to: '/',
               },
             ],
           },
@@ -76,16 +76,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/t94tDaHnRn',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/SniffBotDev',
               },
             ],
           },
@@ -93,17 +89,12 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/Ryheff24/Sniff-docs',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
