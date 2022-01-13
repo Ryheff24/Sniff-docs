@@ -10,7 +10,7 @@ Authentication only works through Sniff's website: [Sniffbot.dev](https://sniffb
 
 Login to Twitch and copy the token.
 
-You will be given a channel by a bot admin to setup an account on the bot using the [/user](/moderationlogs/user-setup/user-command) command
+You will be given a channel by a bot admin to setup an account on the bot using the `/user` command
 
 ## User Data Command
 
@@ -24,7 +24,7 @@ Usage: `/user add <Discord-id> <token> <Twitch-username>`
 
 ![addingusrimg](../../static/img/adduser.png)
 
-When adding a user, you must include a Oauth token, this can be found under [Authentication](/moderationlogs/setup#authentication)
+When adding a user, you must include a Oauth token, this can be found under Authentication
 
 After running this command you have access to moderation logs through Sniff.
 
