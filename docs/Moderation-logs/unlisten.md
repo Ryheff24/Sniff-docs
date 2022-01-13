@@ -4,7 +4,6 @@ sidebar_position: 3
 
 # Unlisten
 
-
 Unlistens channel from Twitch.
 
 Usage: `~unlisten <channel>`

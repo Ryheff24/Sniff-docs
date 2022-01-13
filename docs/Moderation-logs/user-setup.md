@@ -12,7 +12,6 @@ Login to Twitch and copy the token.
 
 You will be given a channel by a bot admin to setup an account on the bot using the [/user](/moderationlogs/user-setup/user-command) command
 
-
 ## User Data Command
 
 Usage: `/user <add/remove/update> <Discord-id> (token) (Twitch-username)`

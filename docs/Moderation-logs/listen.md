@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Listen
 
-Listen to channels on twitch. 
+Listen to channels on twitch.
 
 Usage: `~listen <channel>`
 

@@ -18,7 +18,6 @@ Example(without channel without channel argument):
 
 ![Reaction role msg](/img/rrmsg.png)
 
-
 :::tip Tip
 
 The channel must be a channel mention in order to work.

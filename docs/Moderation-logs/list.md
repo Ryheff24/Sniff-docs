@@ -7,4 +7,3 @@ sidebar_position: 4
 Lists all active channels currently being listened to.
 
 Usage: `~list`
-
