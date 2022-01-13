@@ -8,14 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://docs.sniffbot.dev',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
-
+  organizationName: 'Sniff', // Usually your GitHub org/user name.
+  projectName: 'Sniff-docs', // Usually your repo name.
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -24,7 +23,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/Ryheff24/Sniff-docs/edit/main/website/',
           routeBasePath: '/',
         },
         blog: false,
@@ -42,8 +41,8 @@ const config = {
       navbar: {
         title: 'Sniff',
         logo: {
-          alt: 'My Site Logo',
-          src: 'static/img/SPANIEL_BOT_LG.png',
+          alt: 'Sniff',
+          src: 'img/logo.svg',
         },
         items: [
           // {
@@ -54,7 +53,7 @@ const config = {
           // },
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Ryheff24/Sniff-docs',
             label: 'GitHub',
             position: 'right',
           },
